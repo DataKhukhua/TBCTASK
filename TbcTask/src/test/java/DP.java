@@ -23,7 +23,7 @@ public class DP {
 	@DataProvider (name = "authorize-data")
 	public Object[][]  authorizeDP(){
 		return new Object[][] {
-			{"datakhukhuaaa", "Automation@!@123","false","Success", "User authorized successfully.", "true"},
+			{"DataKhukhua", "Automation@!@123","false","Success", "User authorized successfully.", "true"},
 		};
 	}
 
